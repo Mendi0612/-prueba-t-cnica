@@ -22,7 +22,7 @@ Estructura del Proyecto
 Cómo ejecutar el proyecto
 
 #1. Clona el repositorio
-git clone https://github.com/tuusuario/gestor-pdf-react.git
+git clone https://github.com/Mendi0612/-prueba-t-cnica?tab=readme-ov-file
 cd gestor-pdf-react
 
 #2. Configura y ejecuta el backend
